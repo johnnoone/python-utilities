@@ -6,7 +6,7 @@ iso 8601
 
 Allows to convert any ISO-8601 string to a datetime.datetime object.
 
-Usage::
+Usage
 
 .. code:: python
 
